@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to My Blog!
 
-You can use the [editor on GitHub](https://github.com/Ritchie-Chen/trendblog.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, everyone!I am Ritchie, so glad to meet you and wlecome to my blog.
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
